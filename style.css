@@ -92,6 +92,7 @@ main .img:hover::after {
     font-size: 1.12em;
     margin-bottom: 15px;
     color: var(--white);
+    cursor: pointer;
 }
 
 .text h3:hover {
